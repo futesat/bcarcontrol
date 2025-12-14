@@ -5,7 +5,7 @@
 
 **BCarControl** is an Android application designed to remotely control a robotic car. It features a virtual joystick interface for directional control and provides additional toggles for vehicle systems like lights and fans.
 
-This application serves as the client for the **BCarControl Server**. It is designed to work in tandem with the server implementation available at [https://github.com/your-username/bcarcontrol](https://github.com/your-username/bcarcontrol).
+This application serves as the client for the **BCarControl Server**. It is designed to work in tandem with the server implementation available at [https://github.com/futesat/bcarcontrol](https://github.com/futesat/bcarcontrol).
 
 ## Features
 
