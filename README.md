@@ -1,6 +1,7 @@
 # BCarControl
 
 ![Android CI](https://github.com/futesat/bcarcontrol/actions/workflows/android_build.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **BCarControl** is an Android application designed to remotely control a robotic car. It features a virtual joystick interface for directional control and provides additional toggles for vehicle systems like lights and fans.
 
