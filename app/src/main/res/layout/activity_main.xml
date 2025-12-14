@@ -93,7 +93,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="50"
-app:
+
             app:JV_borderWidth="4dp"
             app:JV_buttonColor="#FF6E40"
             app:JV_buttonDirection="horizontal"
